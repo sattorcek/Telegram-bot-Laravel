@@ -1,4 +1,3 @@
-**Soon**. Here we will post our project for the telegram bot called **"Milliygram"**.
+**Python framework for Telegram Bot API**
 
-
-
+__COMING SOON__
