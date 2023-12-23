@@ -1,3 +1,3 @@
-**Python framework for Telegram Bot API**
+**PHP framework for Telegram Bot API**
 
 __COMING SOON__
